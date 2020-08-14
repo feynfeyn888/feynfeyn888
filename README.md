@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
     <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">
     <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
+    <img src="https://img.shields.io/badge/-Anaconda-214263.svg?logo=Anaconda&style=flat">
+    <img src="https://img.shields.io/badge/-Anaconda-2F1711.svg?logo=jupyter&style=flat">
 </div>
 
 ### Sub
@@ -24,6 +26,7 @@
 <div>
     <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
     <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+    <img src="https://img.shields.io/badge/-Vue.js-214263.svg?logo=Vue.js&style=flat">
 </div>
 
 ### Output
