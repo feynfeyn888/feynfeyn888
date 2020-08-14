@@ -1,7 +1,7 @@
-# About Me
+## About Me
 ```Osaka University Student(M1) belonging to Graduate School Information and Science Technology.```
 
-# Commit Info
+## Commit Info
 <!--
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=jamjamjam888)
 -->
