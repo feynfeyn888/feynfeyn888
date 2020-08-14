@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">
     <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
     <img src="https://img.shields.io/badge/-Anaconda-214263.svg?logo=Anaconda&style=flat">
-    <img src="https://img.shields.io/badge/-Anaconda-2F1711.svg?logo=jupyter&style=flat">
+    <img src="https://img.shields.io/badge/-Jupyter-2F1711.svg?logo=jupyter&style=flat">
 </div>
 
 ### Sub
