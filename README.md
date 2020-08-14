@@ -1,7 +1,11 @@
 ## About Me
 ```Osaka University Student(M1) belonging to Graduate School Information and Science Technology.```
 
-## Skill
+## Skill Level
+    <img src="https://img.shields.io/badge/-Python-333.svg?logo=python&style=flat">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+    <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+### Interest
 <div>
     <img src="https://img.shields.io/badge/-Python-333.svg?logo=python&style=flat">
     <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
