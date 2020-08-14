@@ -1,5 +1,5 @@
 # About Me
-Osaka University Student(M1) belonging to Graduate School Information and Science Technology.
+```Osaka University Student(M1) belonging to Graduate School Information and Science Technology.```
 
 # Skill
   Python3
