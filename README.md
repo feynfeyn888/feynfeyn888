@@ -5,8 +5,6 @@ Osaka University Student(M1) belonging to Graduate School Information and Scienc
   Python3
   github
 
-# Interest
-
 # Research
 
 <!--
