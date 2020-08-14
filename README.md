@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
     <img src="https://img.shields.io/badge/-Vue.js-214263.svg?logo=Vue.js&style=flat">
     <img src="https://img.shields.io/badge/-kubernetes-181888.svg?logo=kubernetes&style=flat">
-    <img src="https://img.shields.io/badge/-kubernetes-181000.svg?logo=Amazon AWS&style=flat">
+    <img src="https://img.shields.io/badge/-AWS-181000.svg?logo=Amazon AWS&style=flat">
 </div>
 
 ### Output
