@@ -6,6 +6,7 @@
 ### Main
 <div>
     <img src="https://img.shields.io/badge/-Python-333.svg?logo=python&style=flat">
+    <img src="https://img.shields.io/badge/-OpenCV-214263.svg?logo=OpenCV&style=flat">
     <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
     <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">
