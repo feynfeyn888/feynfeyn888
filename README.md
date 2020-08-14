@@ -1,6 +1,8 @@
-#About Me
+# Skill
 
-#Skill
+# Interest
+
+# Research
 
 <!--
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=jamjamjam888)
