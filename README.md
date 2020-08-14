@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
     <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
     <img src="https://img.shields.io/badge/-Vue.js-214263.svg?logo=Vue.js&style=flat">
+    <img src="https://img.shields.io/badge/-kubernetes-181888.svg?logo=kubernetes&style=flat">
 </div>
 
 ### Output
