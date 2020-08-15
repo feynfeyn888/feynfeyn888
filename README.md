@@ -30,6 +30,7 @@ https://jamjamjam888.github.io/
     <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
     <img src="https://img.shields.io/badge/-Vue.js-214263.svg?logo=Vue.js&style=flat">
     <img src="https://img.shields.io/badge/-kubernetes-181888.svg?logo=kubernetes&style=flat">
+    <img src="https://img.shields.io/badge/-Firebase-FF8222.svg?logo=Firebase&style=flat">
 </div>
 
 ### Output
