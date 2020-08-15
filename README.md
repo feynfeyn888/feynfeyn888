@@ -1,6 +1,8 @@
 ## About Me
 ```Osaka University Student(M1) belonging to Graduate School Information and Science Technology.```
 
+https://jamjamjam888.github.io/
+
 ## Skill Set
 
 ### Main
