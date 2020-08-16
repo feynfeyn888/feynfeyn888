@@ -1,7 +1,10 @@
 ## About Me
 ```Osaka University Student(M1) belonging to Graduate School Information and Science Technology.```
 
-https://jamjamjam888.github.io/
+リンク:https://jamjamjam888.github.io/
+
+バッジ:https://shields.io/
+ロゴ:https://simpleicons.org/
 
 ## Skill Set
 
@@ -31,6 +34,7 @@ https://jamjamjam888.github.io/
     <img src="https://img.shields.io/badge/-Vue.js-214263.svg?logo=Vue.js&style=flat">
     <img src="https://img.shields.io/badge/-kubernetes-181888.svg?logo=kubernetes&style=flat">
     <img src="https://img.shields.io/badge/-Firebase-FF8222.svg?logo=Firebase&style=flat">
+    <img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=Slack&style=flat">
     <!--<img src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=Amazon AWS&style=flat">-->
 </div>
 
