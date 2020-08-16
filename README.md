@@ -3,9 +3,6 @@
 
 リンク:https://jamjamjam888.github.io/
 
-バッジ:https://shields.io/
-ロゴ:https://simpleicons.org/
-
 ## Skill Set
 
 ### Main
@@ -42,6 +39,11 @@
 <div>
     <img src="https://img.shields.io/badge/-Qiita-FFFFF.svg??style=social">
 </div>
+
+#### Ref
+バッジ:https://shields.io/
+
+ロゴ:https://simpleicons.org/
 
 ## Commit Info
 <!--
