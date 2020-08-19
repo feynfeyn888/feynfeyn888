@@ -2,8 +2,9 @@
 ```Osaka University Student(M1) belonging to Graduate School Information and Science Technology.```
 
 ### Resume
+```Major:Information and Physical Sciences```
 
-```Major:Computational Imaging```
+```Subject of study:Computational Imaging```
 
 ```Research of Bachelor:Application of Digital Optical Code for IoT device communication```
 
