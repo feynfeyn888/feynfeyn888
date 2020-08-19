@@ -1,6 +1,8 @@
 ## About Me
 ```Osaka University Student(M1) belonging to Graduate School Information and Science Technology.```
-
+```Major:Computational Imaging```
+```Research of Bachelor:Application of Digital Optical Code for IoT device communication```
+```Research of Master:(provisional)Development of High-Performance Imaging System by Hybrid of Deep Learning and Existing Imaging Systems```
 リンク:https://jamjamjam888.github.io/
 
 ## Skill Set
