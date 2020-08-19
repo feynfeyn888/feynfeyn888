@@ -1,6 +1,8 @@
 ## About Me
 ```Osaka University Student(M1) belonging to Graduate School Information and Science Technology.```
 
+### Resume
+
 ```Major:Computational Imaging```
 
 ```Research of Bachelor:Application of Digital Optical Code for IoT device communication```
