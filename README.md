@@ -10,7 +10,7 @@
 
 ```Research of Master:(provisional)Development of High-Performance Imaging System by Hybrid of Deep Learning and Existing Imaging Systems```
 
-リンク:https://jamjamjam888.github.io/
+リンク:https://feynfeyn888.github.io/
 
 ## Skill Set
 
