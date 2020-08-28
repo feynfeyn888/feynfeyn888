@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">
     <img src="https://img.shields.io/badge/-Docker-123456.svg?logo=docker&style=flat">
     <img src="https://img.shields.io/badge/-GitLab-FCA121.svg?logo=GitLab&style=flat">
+    <img src="https://img.shields.io/badge/-draw.io-FCA121.svg?logo=draw.io&style=flat">
 </div>   
 
 ### Interest
