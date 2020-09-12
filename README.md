@@ -2,13 +2,13 @@
 Osaka University Student(M1) belonging to Graduate School Information and Science Technology.
 
 ### Resume
-Major:Information and Physical Sciences
+Major : Information and Physical Sciences
 
-- Subject of study:Computational Imaging
+- Subject of study : Computational Imaging
 
-  - Bachelor:Application of Digital Optical Code for IoT device communication
+  - Bachelor : Application of Digital Optical Code for IoT device communication
 
-  - Master:(provisional)Development of High-Performance Imaging System by Hybrid of Deep Learning and Existing Imaging Systems
+  - Master : (provisional)Development of High-Performance Imaging System by Hybrid of Deep Learning and Existing Imaging Systems
 
 リンク:https://feynfeyn888.github.io/
 
