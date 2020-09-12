@@ -6,9 +6,9 @@ Major : Information and Physical Sciences
 
 - Subject of study : Computational Imaging
 
-  - Bachelor : Application of Digital Optical Code for IoT device communication
+  - Bachelor Theme : Application of Digital Optical Code for IoT device communication
 
-  - Master : (provisional)Development of High-Performance Imaging System by Hybrid of Deep Learning and Existing Imaging Systems
+  - Master Theme : (provisional)Development of High-Performance Imaging System by Hybrid of Deep Learning and Existing Imaging Systems
 
 リンク:https://feynfeyn888.github.io/
 
