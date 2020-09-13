@@ -7,7 +7,7 @@ Major : Information and Physical Sciences
 
   - Master Theme : (provisional)Development of High-Performance Imaging System by Hybrid of Deep Learning and Existing Imaging Systems
 
-リンク:https://feynfeyn888.github.io/
+Portfolio : https://feynfeyn888.github.io/
 
 ## Skill Set
 
