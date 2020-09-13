@@ -1,7 +1,4 @@
 ## About Me
-Osaka University Student(M1) belonging to Graduate School Information and Science Technology.
-
-### Resume
 Major : Information and Physical Sciences
 
 - Subject of study : Computational Imaging
