@@ -6,9 +6,7 @@ Major : Information and Physical Sciences
   - Bachelor Theme : Application of Digital Optical Code for IoT device communication
 
   - Master Theme : (provisional)Development of High-Performance Imaging System by Hybrid of Deep Learning and Existing Imaging Systems
-
-Portfolio : https://feynfeyn888.github.io/
-
+  
 ## Skill Set
 
 ### Main
