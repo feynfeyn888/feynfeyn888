@@ -7,13 +7,6 @@ Major : Information and Physical Sciences
 
   - Master Theme : (provisional)Development of High-Performance Imaging System by Hybrid of Deep Learning and Existing Imaging Systems
   
-
-### Output
-<div>
-    <img src="https://img.shields.io/badge/-Qiita-FFFFF.svg??style=social">
-    <img src="https://img.shields.io/badge/-Atcoder-8B8B8B.svg??style=social">
-</div>
-
 <!-->
 #### Ref
 バッジ:https://shields.io/
